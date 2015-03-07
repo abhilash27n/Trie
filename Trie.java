@@ -1,4 +1,4 @@
-package Graph;
+package Graph.Trie;
 
 import java.util.ArrayList;
 
